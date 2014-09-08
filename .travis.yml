@@ -19,5 +19,3 @@ matrix:
       gemfile: gemfiles/4.0.Gemfile
 
 
-notifications:
-  email: vidya@shippable.com
